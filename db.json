@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "9342",
+      "title": "ww",
+      "completed": false,
+      "assignedTo": "Sundar"
+    },
+    {
+      "id": "a59e",
+      "title": "rest",
+      "completed": true,
+      "assignedTo": "Rishika"
+    },
+    {
+      "id": "7160",
+      "title": "sfr",
+      "completed": false,
+      "assignedTo": "Inbha"
+    },
+    {
+      "id": "7464",
+      "title": "erte",
+      "completed": true,
+      "assignedTo": "Sundar"
+    }
+  ]
+}
